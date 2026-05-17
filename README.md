@@ -25,3 +25,8 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm cherukuri shankara narasimha naidu, also known as naidu cherukuri. I’m an  B.tech graduate  and passionate About artificial intelligence and data tools
